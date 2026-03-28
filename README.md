@@ -1,16 +1,52 @@
-## Hi there 👋
+# rafael@github:~$ whoami
 
-<!--
-**Rafasta236/Rafasta236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+backend developer focused on security & scalable systems
+computer engineering student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+rafael@github:~$ cat about.txt
+
+- backend lead @ NINF platform
+- building real-world applications (not just demos)
+- interested in system design, security, and automation
+
+---
+
+rafael@github:~$ ls stack/
+
+nestjs  nodejs  postgresql  redis
+docker  keycloak  prisma
+linux  nginx
+
+---
+
+rafael@github:~$ ./current_project
+
+> NINF backend (production-focused)
+
+- membership system (stripe integration)
+- event management + QR attendance
+- points & rewards system
+- admin panel
+
+focus: security, scalability, real-world usage
+
+---
+
+rafael@github:~$ cat philosophy.txt
+
+- build for production, not tutorials
+- security is not optional
+- simplicity > complexity
+- understand systems deeply
+
+---
+
+rafael@github:~$ echo "contact"
+
+always open to building cool stuff
+
+---
+
+rafael@github:~$ _
